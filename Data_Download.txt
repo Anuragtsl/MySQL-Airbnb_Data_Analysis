@@ -1,4 +1,4 @@
-You have to downlad data from kaggle
+You have to download data from kaggle
 
 LINK:- https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data
 
