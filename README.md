@@ -66,4 +66,7 @@ It can be seen that:
 
 * -Registered users to place orders are the link with the highest churn rate in the airbnb conversion funnel. Only 14% of registered users actually place orders. This link is one of the main sources of corporate revenue. It is recommended to improve the order rate. More work. For example, regular push (product push + SMS mail) high-quality listings for the user trajectory of active users. In addition, increasing the conversion rate of orders is a long-term task that requires a combination of multiple strategies in parallel.
 
-* -Approximately 13% of the users who placed the order did not pay in the end. It is necessary to investigate the specific reason (why the order has been placed, or one-tenth of the users did not settle), it is recommended that users Investigate, or count the reasons why users have not paid on the product (whether it is the user's own decision, the product process, or the payment type that does not meet individual regions, etc.).
+* -Approximately 13% of the users who placed the order did not pay in the end. It is necessary to investigate the specific reason (why the order has been placed, or one-tenth of the users did not settle), it is recommended that users Investigate, or count the reasons why users have not paid on the product (whether it is the user's own decision, the product process, or the payment type that does not meet individual regions, etc.
+
+
+#Njoy!
